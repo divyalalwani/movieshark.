@@ -1,4 +1,4 @@
-# Netflix-Clone
+# movieshark
 
 ![DemoGif](flixdemo.gif)
 
