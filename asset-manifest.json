@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/movieshark./static/css/main.ce5f8fca.chunk.css",
+    "main.js": "/movieshark./static/js/main.87b1d018.chunk.js",
+    "main.js.map": "/movieshark./static/js/main.87b1d018.chunk.js.map",
+    "runtime~main.js": "/movieshark./static/js/runtime~main.29c749fa.js",
+    "runtime~main.js.map": "/movieshark./static/js/runtime~main.29c749fa.js.map",
+    "static/js/2.7861cded.chunk.js": "/movieshark./static/js/2.7861cded.chunk.js",
+    "static/js/2.7861cded.chunk.js.map": "/movieshark./static/js/2.7861cded.chunk.js.map",
+    "index.html": "/movieshark./index.html",
+    "precache-manifest.3935d4bf36aa682caa2bc00e31633dc0.js": "/movieshark./precache-manifest.3935d4bf36aa682caa2bc00e31633dc0.js",
+    "service-worker.js": "/movieshark./service-worker.js",
+    "static/css/main.ce5f8fca.chunk.css.map": "/movieshark./static/css/main.ce5f8fca.chunk.css.map",
+    "static/media/landingPage.jpg": "/movieshark./static/media/landingPage.149a098f.jpg",
+    "static/media/netflix.png": "/movieshark./static/media/netflix.8562b656.png",
+    "static/media/normal.jpg": "/movieshark./static/media/normal.991556c2.jpg",
+    "static/media/profile.jpg": "/movieshark./static/media/profile.c2b89779.jpg"
+  }
+}
